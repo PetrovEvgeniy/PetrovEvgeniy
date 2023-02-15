@@ -1,5 +1,5 @@
 <header align="center">
-  <img src="https://i.ibb.co/6vw6kPM/github-header-image-5.png"  alt="Header banner"  />
+  <img src="https://i.ibb.co/6vw6kPM/github-header-image-5.png" align="center"  alt="Header banner"  />
 
 </header>
 
