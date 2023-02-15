@@ -1,5 +1,5 @@
 
-![Header](https://i.ibb.co/6vw6kPM/github-header-image-5.png" alt="github-header-image-5)
+![Header](https://i.ibb.co/6vw6kPM/github-header-image-5.png)
 <!--
 **PetrovEvgeniy/PetrovEvgeniy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
