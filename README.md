@@ -1,5 +1,7 @@
-
+<div align="center">
 ![Header](https://i.ibb.co/6vw6kPM/github-header-image-5.png)
+</div>
+
 <h2 align="center">About me</h2>
 
 ###
