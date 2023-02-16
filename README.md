@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 Computer Science Student <br>🎯 Current Goals: Gain valuable professional experience, Graduate THU by 2024<br>🎲 Fun fact: I first encountered programming in 2011 while I was setting up my own game servers</p>
+<p align="left">✨ Fixing bugs since 2017<br>📚 Computer Science Student <br>🎯 Current Goals: Gain valuable professional experience, Graduate THU by 2024<br>🎲 Fun fact: I first encountered programming in 2011 while I was setting up my own game servers</p>
 
 ###
 
