@@ -1,5 +1,5 @@
 <header align="center">
- <a href="https://www.linkedin.com/in/evgeniy-petrov-7b9578172/"><img src="https://i.ibb.co/VN9jnvg/github-header-image.png" alt="github-header-image" border="0"></a>
+ <a href="https://www.linkedin.com/in/evgeniy-petrov-7b9578172/"><img src="https://i.ibb.co/VN9jnvg/github-header-image.png" alt="github-header-image" style="width:100%" border="0"></a>
 
 </header>
 
