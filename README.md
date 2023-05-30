@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PetrovEvgeniy&theme=radical&hide_border=false&count_private=false" width="420px" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PetrovEvgeniy&theme=radical&hide_border=false&count_private=true" width="420px" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrovEvgeniy&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="420px" height="180px" alt="languages graph"  />
 </div>
 
