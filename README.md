@@ -39,16 +39,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
-
-###
-
-<h2 align="center">📊Statistics</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PetrovEvgeniy&theme=radical&hide_border=false" width="420px" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetrovEvgeniy&theme=radical&hide_border=false&include_all_commits=true&layout=compact" width="420px" height="180px" alt="languages graph"  />
-</div>
-
-###
