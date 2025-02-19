@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🧑‍🎓 <strong>Computer Science Graduate Student</strong> <br>✨<strong> Fixing bugs</strong> since 2017<br>🎯 <strong>Current Goal:</strong> Gain valuable professional experience <br><strong>Fun fact:</strong> I first encountered programming in 2011 while I was setting up my own game servers</p>
+<p align="left">🧑‍🎓 <strong>Computer Science Graduate</strong> <br>✨<strong> Fixing bugs</strong> since 2017<br>🎯 <strong>Current Goal:</strong> Gain valuable professional experience <br><strong>Fun fact:</strong> I first encountered programming in 2011 while I was setting up my own game servers</p>
 
 ###
 
